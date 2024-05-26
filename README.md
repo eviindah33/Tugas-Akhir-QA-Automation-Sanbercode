@@ -1,4 +1,4 @@
-Git ini berisi Tugas Akhir 1 (Cucumber)
+================= Git ini berisi Tugas Akhir 1 (Cucumber) ===============
 
 Tugas Akhir 2 (Mobile Automation) dapat di akses : https://github.com/eviindah33/Tugas-Akhir-2-Mobile-Automation.git
 
