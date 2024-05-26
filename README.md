@@ -6,11 +6,10 @@ Link Dokumentasi (Spreadsheet dan Video Recording) Tugas Akhir : https://drive.g
 
 
 
-===============
-How to run
+====== How to run ====== 
 1. npm install
 2. npm run wdio
-===============
+========================
 
 
 
