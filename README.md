@@ -1,4 +1,4 @@
-# Git ini berisi Tugas Akhir 1 (wdio)
+# Git ini berisi Tugas Akhir 1 (webdriver.io)
 
 Petunjuk Pengerjaan
 - Buatlah sebuah UI testing dari url https://kasirdemo.belajarqa.com
