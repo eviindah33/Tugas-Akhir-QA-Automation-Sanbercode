@@ -1,16 +1,20 @@
-#Git ini berisi Tugas Akhir 1 (Cucumber)
+# Git ini berisi Tugas Akhir 1 (wdio)
 
-Tugas Akhir 2 (Mobile Automation) dapat di akses : https://github.com/eviindah33/Tugas-Akhir-2-Mobile-Automation.git
+Petunjuk Pengerjaan
+- Buatlah sebuah UI testing dari url https://kasirdemo.belajarqa.com
+- Gunakan webdriver.io (wdio) untuk membuat automation dari aplikasi tersebut
+- Serta gunakan page object model (POM) dan Cucumber
 
-Link Dokumentasi (Spreadsheet dan Video Recording) Tugas Akhir : https://drive.google.com/drive/folders/1_zgGcB09Z7vW4apfRbIL7Ma85OaSwtiP
+
+### Link Dokumentasi (Spreadsheet dan Video Recording) Tugas Akhir : https://drive.google.com/drive/folders/1_zgGcB09Z7vW4apfRbIL7Ma85OaSwtiP
 
 
 
-====== How to run ====== 
-1. npm install
+========= How to run ========= 
+1. npm instal
 2. npm run wdio
-   
-========================
+
+==========================
 
 
 
